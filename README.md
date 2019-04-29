@@ -35,7 +35,8 @@ Use or `react-native run-ios` to start the app on iOS simulator or `react-native
 React-devtools used for debugging - (https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
 
 Install: `npm install -g react-devtools`
-Use `react-devtools` in terminal
+
+Use `react-devtools` in terminal to launch the debugger and then `Toggle Inspector` in your simulator to activate it
 
 ## Folder structure
 This template follows a very simple project structure:
