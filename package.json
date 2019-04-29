@@ -1,5 +1,5 @@
 {
-  "name": "rntemplate",
+  "name": "phoneLookup",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
     "axios": "^0.18.0",
     "prop-types": "^15.6.1",
     "react": "16.6.3",
-    "react-native": "0.57.8",
+    "react-native": "^0.59.6",
     "react-native-dotenv": "^0.2.0",
     "react-native-gesture-handler": "^1.0.12",
     "react-native-localization": "^2.0.1",

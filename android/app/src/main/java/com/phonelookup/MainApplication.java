@@ -1,4 +1,4 @@
-package com.rntemplate;
+package com.phonelookup;
 
 import android.app.Application;
 
