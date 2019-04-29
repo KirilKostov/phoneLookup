@@ -1,6 +1,7 @@
-React-Native-Template
+React-Native Phone Lookup app
 ================================================
-The goal of this project is to work as template for react-native applications, providing a base project structure, core dependencies and boilerplate to jumpstart development.
+The goal of this project is to create a mobile app, which allows users to input a phone number and gain information about it.
+Based on (https://github.com/moove-it/react-native-template)
 
 ## Prerequisites
 - Node > 7 and npm (Recommended: Use [nvm](https://github.com/creationix/nvm))
@@ -25,20 +26,9 @@ The goal of this project is to work as template for react-native applications, p
 
 ## Usage
 
-### Option #1: Using React-Native-Rename
-You can start by cloning this repository and using [react-native-rename](https://github.com/junedomingo/react-native-rename). In the current state of this project, it should give you no issues at all, just run the script, delete your node modules and reinstall them and you should be good to go.
+Use `npm install` to update all dependencies.
 
-Keep in mind that this library can cause trouble if you are renaming a project that uses `Pods` on the iOS side.
-
-After that you should proceed as with any javascript project:
-- Go to your project's root folder and run `npm install`.
-- Create a `.env` file to store all your configuration constants. Remember to not commit this file, since it can store sensible information of your product.
-- Run `react-native run-ios` or `react-native run-android` to start your application!
-
-### Option #2: Copy the structure to your project
-If you want to roll on your own and don't want to use this as a template, you can create your own project and then copy the `/src` folder (which has all the code of your application) and update your `index.js`.
-
-Keep in mind that if you do this, you'll have to **install and link** all dependencies (as well as adding all the necessary native code for each library that requires it).
+Use or `react-native run-ios` to start the app on iOS simulator or `react-native run-android` to start it on Android emulator.
 
 ## Folder structure
 This template follows a very simple project structure:
