@@ -30,6 +30,13 @@ Use `npm install` to update all dependencies.
 
 Use or `react-native run-ios` to start the app on iOS simulator or `react-native run-android` to start it on Android emulator.
 
+## Debugging
+
+React-devtools used for debugging - (https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+
+Install: `npm install -g react-devtools`
+Use `react-devtools` in terminal
+
 ## Folder structure
 This template follows a very simple project structure:
 - `src`: This folder is the main container of all the code inside your application.
